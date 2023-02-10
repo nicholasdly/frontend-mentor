@@ -1,12 +1,19 @@
-<h1 align='center'>
+<h2 align='center'>
     Frontend Mentor Solutions 🖥️
-</h1>
+</h2>
 
-<h3 align='center'>
+<p align='center'>
     My solutions to challenges found on <a href='https://www.frontendmentor.io/profile/nicholasdly'>frontendmentor.io!</a>
-</h3>
+    </br>
+    All of my solutions are powered by <a href='https://deno.land/'>Deno</a>, built using the <a href='https://fresh.deno.dev/'>Fresh</a> web framework, and styled using <a href='https://twind.dev/'>Twind</a>.
+    </br>
+    To navigate between different solutions, switch to their respective branch or use the links below!
+</p>
 
 <h3 align='center'>
-    To navigate between different solutions, switch to their respective branch.
+    Completed Challenges:
 </h3>
 
+<p align='center'>
+    <a href='https://github.com/nicholasdly/frontend-mentor/tree/QR-code-component'>QR Code Component</a>
+</p>
