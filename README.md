@@ -15,5 +15,5 @@
 </h3>
 
 <p align='center'>
-    <a href='https://github.com/nicholasdly/frontend-mentor/tree/QR-code-component'>QR Code Component</a>
+    <a href='https://github.com/nicholasdly/frontend-mentor/tree/qr-code'>QR Code Component</a>
 </p>
