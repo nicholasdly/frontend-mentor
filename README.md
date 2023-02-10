@@ -1,6 +1,6 @@
-<h2 align='center'>
-    Frontend Mentor Solutions 🖥️
-</h2>
+<h1 align='center'>
+    My Frontend Mentor solutions! 🖥️
+</h1>
 
 <p align='center'>
     My solutions to challenges found on <a href='https://www.frontendmentor.io/profile/nicholasdly'>frontendmentor.io!</a>
