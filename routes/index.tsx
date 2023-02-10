@@ -11,9 +11,11 @@ export default function Home() {
         <title>Frontend Mentor | QR code component</title>
       </Head>
 
-      <div class="grid place-items-center w-screen h-screen">
-        <QRCode />
-      </div>
+      <main>
+        <div class="grid place-items-center w-screen h-screen">
+          <QRCode />
+        </div>
+      </main>
 
     </body> 
   );
